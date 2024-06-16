@@ -1,5 +1,5 @@
 // import ProductsCards from "@/components/ProductsCards";
-import ProductCard from "../components/productCard";
+import ProductCard from "../components/ProductCard";
 import { createClient } from "contentful";
 
 async function getProducts() {

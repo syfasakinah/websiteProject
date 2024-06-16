@@ -14,7 +14,6 @@ const Teams = () => {
         </div>
       </div>
       <div className="text-center border-2 border-orange-500 rounded-xl">
-     
         "Its very usefull"
         <div className="font-bold text-center">
           by Starla
@@ -23,7 +22,6 @@ const Teams = () => {
           </div>
         </div>
         <div className="text-center border-2 border-orange-700 rounded-xl">
-        
         "Its very Helpfull"
         <div className="font-bold text-center">
           by Ryan
